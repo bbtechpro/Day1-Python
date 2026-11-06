@@ -23,4 +23,4 @@ I added 3 more lines to my hello.py file to prompt the user to enter a name, whi
 It tells Python that the string contains placeholders inside curly braces {} that need to be evaluated and replaced with real values.
 In this specific line, {name} is the placeholder. When the code runs, Python replaces {name} with whatever text the user typed into the input() variable.
 
-I tested the script with my name and several other variations, such as PuddinTain,
+I tested the script with my name and several other variations, such as PuddinTain and @l!en.
